@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Palawat</h1>
-<h3 align="center">🚀 Passionate Developer | 🧠 Curious Learner | 🇮🇳 Bharat-First Tech Enthusiast</h3>
+<h3 align="center">🚀 Passionate Developer | 🧠 Curious Learner | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Building+NirogAI+for+Bharat;Creating+AI+Projects+that+Matter;Loves+DSA%2C+Web+Dev%2C+Startups+%26+Ideas!" alt="Typing SVG" />
