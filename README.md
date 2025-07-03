@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Palawat</h1>
 <h3 align="center">🚀 Passionate Developer | 🧠 Curious Learner | 🇮🇳 Bharat-First Tech Enthusiast</h3>
 
-<img src="A_digital_banner_image_features_Paras_Palawat_in_n.png" alt="Paras Palawat Banner" width="70%" />
+<img src="A_digital_banner_image_features_Paras_Palawat_in_n.png" alt="Paras Palawat Banner" width="75%" />
 
 
 ---
